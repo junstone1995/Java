@@ -41,7 +41,7 @@ public class MyDate {
 			System.out.println(year + "년"+ month + "월"+ day +"일");
 		}
 		else {
-			System.out.println("유효하지않은 날짜입니다. ");
+			System.out.println("유효하지않은 날짜입니다.. ");
 		}
 	}
 }

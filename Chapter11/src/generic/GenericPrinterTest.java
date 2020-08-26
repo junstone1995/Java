@@ -19,5 +19,4 @@ public class GenericPrinterTest {
 		powderPrinter.printing();
 		plasticPrinter.printing();
 	}
-
 }
